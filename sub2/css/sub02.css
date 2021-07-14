@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+h2 {
+    width: 100%;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 50px;
+    color: #4A171E;
+    font-family: 'Alfa Slab One', cursive;
+}
+
+/*  */
+#main_visual{}
+#main_visual>a{}
+#main_visual>a>img{width: 100%;}
+
+.ex>img{display: block; width: 100%;}
